@@ -4,6 +4,7 @@
 
 To evaluate and compare the effectiveness of prompting techniques (Zero-shot, Few-shot, Chain-of-thought, Role-based) across multiple AI platforms (ChatGPT, Gemini, Claude, Copilot) in the task of text summarization.
 
+
 ## SCENARIO  
 
 A 500-word article on **“The Basics of Blockchain Technology”** is provided.  
